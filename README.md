@@ -22,6 +22,6 @@ Authors: _José Manuel Tapia-Avitia, Carlos Alonzo López Castañeda_
 
 José Manuel Tapia-Avitia - [A00834191@tec.mx](mailto:A00834191@tec.mx)
 
-Carlos Alonzo López Castañeda - [A01378902@itesm.mx](mailto:A01378902@itesm.mx)
+Carlos Alonzo López Castañeda - [A01378902@itesm.mx](mailto:A01378902@tec.mx)
 
 Distributed under the MIT license. See [LICENSE](./LICENSE) for more information.
