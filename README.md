@@ -9,7 +9,7 @@ Authors: _José Manuel Tapia-Avitia, Carlos Alonzo López Castañeda_
 ## Requirements
 
 - Python v3.7+
-- Standard modules: os, matplotlib, numpy, pandas, scipy.stats, seaborn, tensorflow
+- Standard modules: matplotlib, numpy, pandas, scipy.stats, seaborn
 
 ## Files
 
