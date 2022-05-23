@@ -9,7 +9,7 @@ Authors: _José Manuel Tapia-Avitia, Carlos Alonzo López Castañeda_
 ## Requirements
 
 - Python v3.7+
-- Standard modules: os, matplotlib, numpy, pandas, scipy.stats, seaborn, tensorflow
+- Standard modules: matplotlib, numpy, pandas, scipy.stats, seaborn
 
 ## Files
 
@@ -21,6 +21,7 @@ Authors: _José Manuel Tapia-Avitia, Carlos Alonzo López Castañeda_
 ## Contact information
 
 José Manuel Tapia-Avitia - [A00834191@tec.mx](mailto:A00834191@tec.mx)
+
 Carlos Alonzo López Castañeda - [a01378902@itesm.mx](mailto:a01378902@itesm.mx)
 
 Distributed under the MIT license. See [LICENSE](./LICENSE) for more information.
