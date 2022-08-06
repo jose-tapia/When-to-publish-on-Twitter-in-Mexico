@@ -4,7 +4,9 @@ This repository contains the dataset of users and tweets from a certain poblatio
 
 We uses the modules [pysentimiento](https://pypi.org/project/pysentimiento/) and [WhatTheLang](https://pypi.org/project/whatthelang/) to pre-process the tweets, retrieve more information as the sentiment and emotion, as well as detect the language of the tweet.
 
-Authors: _José Manuel Tapia-Avitia, Carlos Alonzo López Castañeda_
+The datasets are available in Kaggle: https://www.kaggle.com/code/jmtapiaavitia/preliminary-analysis-when-to-tweet-in-mexico (accessed on August 6, 2022).
+
+Authors: _José Manuel Tapia-Avitia, Carlos Alonzo López Castañeda, Francisco Javier Cantú Ortiz
 
 ## Requirements
 
